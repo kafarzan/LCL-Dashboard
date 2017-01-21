@@ -1,0 +1,21 @@
+{
+  "name": "port-hack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "express-jsonschema": "^1.1.6",
+    "express-jwt": "^5.1.0",
+    "express-unless": "^0.3.0",
+    "socket.io": "^1.7.2"
+  }
+}
